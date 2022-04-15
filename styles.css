@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(241, 167, 239);
+}
+
+img {
+    display: block;
+    width: 50%;
+    margin: center;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(165, 6, 165);
+}
+
+p {
+    color: rgb(255, 255, 255);
+}
+
+h3 {
+    text-align: center;
+    color: white;
+}
+
+h4 {
+    color: rgb(165, 6, 165);
+}
+
+.centerart {
+    text-align: center; 
+}
+
+.smallpic {
+    display: block;
+    width: 20%;
+    margin-left: 0px;
+}
